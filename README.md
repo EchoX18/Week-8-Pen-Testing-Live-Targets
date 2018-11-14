@@ -37,8 +37,9 @@ GIF WALKTHROUGH-![Alt Text](https://github.com/EchoX18/Week-8-Pen-Testing-Live-T
 ## Red
 
 Vulnerability #1: Insecure Direct Object Reference
-(The User ID is vulnerable if ID is to be changed the object in this case the salesman search is changed.)
+(The User ID is vulnerable if ID is to be changed the object in this case the salesman search is changed.ID 10 should not be avalible to the public.)
  GIF WALKTHROUGH- ![Alt Text](https://github.com/EchoX18/Week-8-Pen-Testing-Live-Targets/blob/master/IDOR.gif)
+ ![Alt Text](https://github.com/EchoX18/Week-8-Pen-Testing-Live-Targets/blob/master/IDOR%202.gif)
 
 Vulnerability #2: __________________
 
