@@ -18,7 +18,10 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1:SQLI (BLIND SQLI)
+![Alt Text](https://github.com/EchoX18/Week-8-Pen-Testing-Live-Targets/blob/master/SQLI%20BLIND.gif)
+
+The SQLI input makes the database sleep for 5 seconds once the systems generates the user is different.
 
 Vulnerability #2: __________________
 
