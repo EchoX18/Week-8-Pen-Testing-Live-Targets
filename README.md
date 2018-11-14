@@ -25,16 +25,20 @@ Vulnerability #2: __________________
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: CROSS SITE SCRIPTING XXS
 
-Vulnerability #2: __________________
+GIF WALKTHROUGH- ![Alt Text](https://github.com/EchoX18/Week-8-Pen-Testing-Live-Targets/blob/master/XXS.gif)
+
+Vulnerability #2: User Enumeration
+
+GIF WALKTHROUGH-![Alt Text](https://github.com/EchoX18/Week-8-Pen-Testing-Live-Targets/blob/master/User%20Enumeration.gif)
 
 
 ## Red
 
 Vulnerability #1: Insecure Direct Object Reference
 (The User ID is vulnerable if ID is to be changed the object in this case the salesman search is changed.)
- GIF WALKTHROUGH- 
+ GIF WALKTHROUGH- ![Alt Text](https://github.com/EchoX18/Week-8-Pen-Testing-Live-Targets/blob/master/IDOR.gif)
 
 Vulnerability #2: __________________
 
