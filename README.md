@@ -2,7 +2,7 @@
 Week 8 Pen-Testing on Live Targets(Websites) 
 # Project 8 - Pentesting Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -23,8 +23,10 @@ Vulnerability #1:SQLI (BLIND SQLI)
 
 The SQLI input makes the database sleep for 5 seconds once the systems generates the user is different.
 
-Vulnerability #2: __________________
+Vulnerability #2: Session Hijacking
+![Alt Text](https://github.com/EchoX18/Week-8-Pen-Testing-Live-Targets/blob/master/Session%20Hijacking.gif)
 
+On one browser a user must login and then retrieve session ID. On another browser a non logined in user will change its session ID to match that of a logged in user. This allows for attacker to be able to use logged in users account/sessionID. Tool used to change session ID was given by CTF Codepath in 5.10
 
 ## Green
 
