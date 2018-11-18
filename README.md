@@ -38,6 +38,9 @@ Vulnerability #2: User Enumeration
 
 GIF WALKTHROUGH-![Alt Text](https://github.com/EchoX18/Week-8-Pen-Testing-Live-Targets/blob/master/User%20Enumeration.gif)
 
+Bounus XXS
+GIF WALKTHROUGH-![Alt Text](https://github.com/EchoX18/Week-8-Pen-Testing-Live-Targets/blob/master/extra.gif)
+Used this XXS to redirect the site to Youtube.com.
 
 ## Red
 
