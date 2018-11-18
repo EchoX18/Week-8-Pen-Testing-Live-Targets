@@ -33,7 +33,7 @@ On one browser a user must login and then retrieve session ID. On another browse
 Vulnerability #1: CROSS SITE SCRIPTING XXS
 
 GIF WALKTHROUGH- ![Alt Text](https://github.com/EchoX18/Week-8-Pen-Testing-Live-Targets/blob/master/XXS.gif)
-
+Used a script in the feedback section to alert the user once they check the feedback page. 
 Vulnerability #2: User Enumeration
 
 GIF WALKTHROUGH-![Alt Text](https://github.com/EchoX18/Week-8-Pen-Testing-Live-Targets/blob/master/User%20Enumeration.gif)
